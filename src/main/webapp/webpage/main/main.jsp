@@ -3,7 +3,7 @@
 <!DOCTYPE html >
 <html>
 <head>
-<title><t:mutiLang langKey="jeect.platform"/></title>
+<title>开运联合办公管理系统</title>
 <t:base type="jquery,easyui,tools,DatePicker,autocomplete"></t:base>
 <!-- add-start--Author:jg_renjie  Date:20160315 for：配合首页改造，引入portal依赖的js及css文件 -->
 <script type="text/javascript" src="plug-in/easyui/portal/jquery.portal.js"></script>

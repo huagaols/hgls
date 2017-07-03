@@ -11,7 +11,7 @@
 
 <html>
 <head>
-<title>CREATUNION</title>
+<title>开运联合办公管理系统</title>
     <link rel="shortcut icon" href="resources/fc/images/icon/favicon.ico">
     <script src=<%=langurl%> type="text/javascript"></script>
     <!--[if lt IE 9]>

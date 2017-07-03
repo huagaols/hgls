@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title><t:mutiLang langKey="jeect.platform"/></title>
+		<title>开运联合办公管理系统</title>
 		<meta name="keywords" content="<t:mutiLang langKey="jeect.platform"/>" />
 		<meta name="description" content="<t:mutiLang langKey="jeect.platform"/>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
