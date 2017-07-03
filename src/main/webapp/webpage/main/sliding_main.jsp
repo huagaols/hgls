@@ -3,7 +3,7 @@
 <!DOCTYPE html >
 <html>
 	<head>
-		<title>JEECG 微云快速开发平台</title>
+		<title>Creatunion 办公管理系统</title>
 <%--update-begin--Author:zhangguoming  Date:20140521 for：云桌面图标拖拽、用户自定义桌面--%>
 <t:base type="jquery-webos,easyui,tools,DatePicker,autocomplete"></t:base>
 <%--update-end--Author:zhangguoming  Date:20140521 for：云桌面图标拖拽、用户自定义桌面--%>

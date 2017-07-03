@@ -50,9 +50,9 @@
           <div class="center">
             <h1 id="id-text2" class="grey">
               <i class="ace-icon fa fa-leaf green"></i>
-               JEECG 演示系统
+               	北京开运联合办公系统
             </h1>
-            <h4 class="blue" id="id-company-text">www.jeecg.org</h4>
+            <h4 class="blue" id="id-company-text">www.creatunion.com.cn</h4>
           </div>
           <div class="space-6"></div>
           <div class="position-relative">
@@ -113,19 +113,24 @@
                 </form>
               </div>
             </div>
-            <div class="center"><h4 class="blue" id="id-company-text">&copy; JEECG版权所有 v_3.6.3</h4></div>
+            <div class="center">
+            	<h5 class="blue" id="id-company-text">&copy;版权所有:北京开运联合信息技术股份有限公司</h5>
+            	<h5 class="blue" id="id-company-text">&copy;联系电话：400-628-1365        </h5>     
+          		<!-- <h5 class="blue" id="id-company-text">&copy;邮件：creatunion@126.com     </h5>
+          		<h5 class="blue" id="id-company-text">&copy;公司地址：北京市朝阳区东十里堡路一号未来时大厦8层803</h5>  -->
+            </div>
             <div class="navbar-fixed-top align-right">
               <br />
               &nbsp;
-              <a id="btn-login-dark" class="blue" href="#" onclick="darkStyle()">Dark</a>
+              <a id="btn-login-dark" class="blue" href="#" onclick="darkStyle()">黑暗模式</a>
               &nbsp;
               <span class="blue">/</span>
               &nbsp;
-              <a id="btn-login-blur" class="blue" href="#" onclick="blurStyle()">Blur</a>
+              <a id="btn-login-blur" class="blue" href="#" onclick="blurStyle()">蓝光模式</a>
               &nbsp;
               <span class="blue">/</span>
               &nbsp;
-              <a id="btn-login-light" class="blue" href="#" onclick="lightStyle()">Light</a>
+              <a id="btn-login-light" class="blue" href="#" onclick="lightStyle()">白光模式</a>
               &nbsp; &nbsp; &nbsp;
             </div>
               </div>

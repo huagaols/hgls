@@ -50,9 +50,9 @@
           <div class="center">
             <h1 id="id-text2" class="grey">
               <i class="ace-icon fa fa-leaf green"></i>
-               JEECG 演示系统
+               	开运联合办公管理系统
             </h1>
-            <h4 class="blue" id="id-company-text">&copy; JEECG版权所有</h4>
+            <h4 class="blue" id="id-company-text">&copy; 开运联合管理系统版权所有</h4>
           </div>
           <div class="space-6"></div>
           <div class="position-relative">

@@ -130,10 +130,10 @@ a:hover {
 </head>
 <body class="easyui-layout" style="overflow-y: hidden" scroll="no">
 <!-- 顶部-->
-<div region="north" border="false" title=" JEECG Framework  <t:mutiLang langKey="system.version.number"/>" style="BACKGROUND: #E6E6FA; height: 85px; padding: 1px; overflow: hidden;">
+<div region="north" border="false" title=" 开运联合办公管理系统 " style="BACKGROUND: #E6E6FA; height: 85px; padding: 1px; overflow: hidden;">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-    <td align="left" style="vertical-align: text-bottom;"><img src="plug-in/login/images/head.png;"> <img src="plug-in/login/images/foot.png"></td>
+    <td align="left" style="vertical-align: text-bottom;"><img src="plug-in/login/images/creatunion1.png;"> <!-- <img src="plug-in/login/images/foot.png"> --></td>
     <td align="right" nowrap>
         <table>
             <tr>
@@ -189,9 +189,9 @@ a:hover {
 <!-- 左侧-->
 <div region="west" split="true" href="loginController.do?left" title="<t:mutiLang langKey="common.navegation"/>" style="width: 200px; padding: 1px;"></div>
 <!-- 中间-->
-<div id="mainPanle" region="center" style="overflow: hidden;">
+<div id="mainPanle" region="center" style="overflow: hidden";>
     <div id="maintabs" class="easyui-tabs" fit="true" border="false">
-    <div class="easyui-tab" title="<t:mutiLang langKey="common.dash_board"/>" href="loginController.do?home" style="padding: 2px; overflow: hidden;"></div>
+    <div class="easyui-tab" title="<t:mutiLang langKey="common.dash_board"/>" href="loginController.do?home" style="padding: 2px;"></div>
         <c:if test="${map=='1'}">
             <div class="easyui-tab" title="<t:mutiLang langKey="common.map"/>" style="padding: 1px; overflow: hidden;">
                 <iframe name="myMap" id="myMap" scrolling="no" frameborder="0" src="mapController.do?map" style="width: 100%; height: 99.5%;"></iframe>
@@ -230,11 +230,12 @@ a:hover {
 <!-- 底部 -->
 <div region="south" border="false" style="height: 25px; overflow: hidden;">
     <div align="center" style="color: #CC99FF; padding-top: 2px">&copy;
-        <t:mutiLang langKey="common.copyright"/>
+        <%-- <t:mutiLang langKey="common.copyright"/> --%>
+        	版权所有:
         <span class="tip">
-            <a href="http://www.jeecg.org" title=" JEECG Framework  <t:mutiLang langKey="system.version.number"/>"> JEECG Framework  <t:mutiLang langKey="system.version.number"/></a>
+            <a href="http://www.creatunion.com.cn" title=" Creatunion">北京开运联合<%--  <t:mutiLang langKey="system.version.number"/> --%></a>
             <t:mutiLang langKey="common.copyright"/>:
-            <a href="#" title=" JEECG Framework  <t:mutiLang langKey="system.version.number"/>">JEECG Framework  <t:mutiLang langKey="system.version.number"/></a>
+            <a href="#" title=" Creatunion Framework <!--  <t:mutiLang langKey="system.version.number"/> -->">北京开运联合<%-- <t:mutiLang langKey="system.version.number"/> --%></a>
         </span>
     </div>
 </div>

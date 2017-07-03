@@ -172,10 +172,10 @@ a:hover {
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
     <td align="left" style="vertical-align: text-bottom">
-    <img src="plug-in/login/images/logo.jpg"> 
+    <img src="plug-in/login/images/creatunion1.png">
     <!--
         <img src="plug-in/login/images/toplogo.png" width="550" height="52" alt="">-->
-        <div style="position: absolute; top: 75px; left: 33px;">JEECG Framework <span style="letter-spacing: -1px;"> <t:mutiLang langKey="system.version.number"/></span></div>
+        <div style="position: absolute; top: 75px; left: 33px;">开运联合办公管理系统<span style="letter-spacing: -1px;"> <%-- <t:mutiLang langKey="system.version.number"/> --%></span></div>
     </td>
     <td align="right" nowrap>
         <table border="0" cellpadding="0" cellspacing="0">
@@ -294,11 +294,12 @@ a:hover {
 <!-- 底部 -->
 <div region="south" border="false" style="height: 25px; overflow: hidden;">
     <div align="center" style="color: #1fa3e5; padding-top: 2px">&copy;
-        <t:mutiLang langKey="common.copyright"/>
+       <%--  <t:mutiLang langKey="common.copyright"/> --%>
+      	 版权所有:
         <span class="tip">
-            <a href="http://www.jeecg.org" title="JEECG Framework  <t:mutiLang langKey="system.version.number"/>">JEECG Framework  <t:mutiLang langKey="system.version.number"/></a>
+            <a href="http://http://www.creatunion.com.cn" title="Creatunion Framework <t:mutiLang langKey="system.version.number"/>">北京开运联合股份有限公司 <%--  <t:mutiLang langKey="system.version.number"/> --%></a>
             (推荐谷歌浏览器，获得更快响应速度) 技术支持:
-            <a href="#" title="JEECG Framework  <t:mutiLang langKey="system.version.number"/>">JEECG Framework  <t:mutiLang langKey="system.version.number"/></a>
+            <a href="#" title="Creatunion Framework  <!-- <t:mutiLang langKey="system.version.number"/> -->">北京开运联合股份有限公司 <%--  <t:mutiLang langKey="system.version.number"/> --%></a>
         </span>
     </div>
 </div>

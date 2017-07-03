@@ -8,7 +8,7 @@
 <body>
   <div class="demo">
     <p><span>Licence<span> Is</span><span> Error</span></p>
-    <p>请输入有效licence哟(´･ω･`) ，官方邮箱：jeecg@sina.com</p>
+    <p>请输入有效licence哟(´･ω･`) ，官方邮箱：creatunion@126.com</p>
     <br><br><br><br>
     <p style="display:none"><input type="text" name="licence" style="width:400px;"/> <input type="button" value="提交"/></p>
   </div>

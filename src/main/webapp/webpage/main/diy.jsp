@@ -412,7 +412,7 @@ fa fa-times
             <!-- #section:basics/footer -->
             <div class="footer-content">
 						<span class="bigger-120">
-							<span class="blue bolder">JEECG</span>
+							<span class="blue bolder">Creatunion</span>
 							 Application &copy; <t:mutiLang langKey="system.version.number"/>
 						</span>
 

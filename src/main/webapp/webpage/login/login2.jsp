@@ -11,7 +11,7 @@
 
 <html>
 <head>
-<title>JEECG</title>
+<title>CREATUNION</title>
     <link rel="shortcut icon" href="resources/fc/images/icon/favicon.ico">
     <script src=<%=langurl%> type="text/javascript"></script>
     <!--[if lt IE 9]>
@@ -75,7 +75,7 @@
     </div>
 
     <div class="copyright ">
-    	<span>&copy; JEECG 版权所有 <span class="tip"><a href="#" title=JEECG 演示系统>jeecg</a> (推荐使用IE8+,谷歌浏览器) 技术支持：:<a href="#" title=JEECG 演示系统>jeecg</a></span></span>
+    	<span>&copy; 开运联合办公系统  版权所有 <span class="tip"><a href="#" title=开运联合办公系统>北京开运联合</a> (推荐使用IE8+,谷歌浏览器) 技术支持：:<a href="#" title=开运联合办公系统>北京开运联合</a></span></span>
     </div>       
 </div>
 </form>
