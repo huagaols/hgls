@@ -41,7 +41,7 @@
                 <div style="width: 75%;">
                     <div class="navbar-right navbar-collapse collapse in" style="height: auto;">
                         <ul class="nav navbar-nav">
-                            <li class=""><a href="http://www.jeecg.org/" class="">首页</a></li>
+                            <li class=""><a href="http://www.creatunion.com.cn/" class="">首页</a></li>
                             <li class=""><a href="${url}tSTeamPersonController.do?getTeacherList" class="">红人榜</a></li>
                             <li class=""><a href="${url}tSTeamPersonController.do?introduce" class="">社区介绍</a></li>
                             <#--<li class=""><a href="javascript:void(0)" class="">师资力量</a></li>-->
@@ -106,7 +106,7 @@
             <div>
                 <ul style="padding-left: 0;list-style: none;">
                     <li>
-						<span>Powered by <a href="http://www.jeecg.org/" target="_blank">JEECG微云快速开发平台</a> Support by 国炬IT培训©2015 </span>
+						<span>Powered by <a href="http://www.creatunion.com.cn/" target="_blank">开运联合快速开发平台</a> Support by 国炬IT培训©2015 </span>
                     </li>
                 </ul>
             </div>

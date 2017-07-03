@@ -47,7 +47,7 @@
 <div id="header">
 <div class="navbar">
 <div class="navbar-inner">
-<div class="container-fluid"><a class="brand" href="http://www.jeecg.org" target="_blank"><t:mutiLang langKey="common.platform"/> &nbsp;&nbsp;<span class="slogan"></span></a>
+<div class="container-fluid"><a class="brand" href="http://www.creatunion.com.cn" target="_blank"><t:mutiLang langKey="common.platform"/> &nbsp;&nbsp;<span class="slogan"></span></a>
 <div class="nav-no-collapse bootstrap-menu">
 
 <ul class="nav pull-right usernav">
@@ -81,8 +81,8 @@
 <footer class="footer">
 <div class="container">
 <ul class="footer-links">
-	<li style="display: inline;">&copy; <t:mutiLang langKey="common.copyright"/><a href="http://www.jeecg.org" title="JEECG Framework  <t:mutiLang langKey="system.version.number"/>">JEECG Framework  <t:mutiLang langKey="system.version.number"/></a></li>
-	<li style="display: inline;">&nbsp;<t:mutiLang langKey="common.copyright"/><t:mutiLang langKey="common.browser"/>:<a title="JEECG Framework  <t:mutiLang langKey="system.version.number"/>" href="http://www.jeecg.org">JEECG Framework  <t:mutiLang langKey="system.version.number"/></a></li>
+	<li style="display: inline;">&copy; <t:mutiLang langKey="common.copyright"/><a href="http://www.creatunion.com.cn" title="北京开运联合">北京开运联合</a></li>
+	<li style="display: inline;">&nbsp;<t:mutiLang langKey="common.copyright"/><t:mutiLang langKey="common.browser"/>:<a title="北京开运联合"  href="http://www.creatunion.com.cn">北京开运联合</a></li>
 </ul>
 </div>
 </footer>

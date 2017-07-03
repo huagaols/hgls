@@ -21,7 +21,7 @@ a:hover {
 <div style="width: 750px; margin-left: auto; margin-right: auto;">${ckfinderPreview.remark}</div>
 <!-- 底部 -->
 <div region="south" border="false" style="height: 25px; overflow: hidden;">
-<div align="center" style="color: #CC99FF; padding-top: 2px">&copy; 版权所有 <span class="tip"><a href="http://www.jeecg.org" title="JEECG_v3.1 Simple版本">JEECG_v3.1</a> (推荐谷歌浏览器，获得更快响应速度)
-技术支持:<a href="#" title="JEECG_v3.1 Simple版本">JEECG_v3.1</a> </span></div>
+<div align="center" style="color: #CC99FF; padding-top: 2px">&copy; 版权所有 <span class="tip"><a href="http://www.creatunion.com.cn" title="Creatunion_v3.1 Simple版本">Creatunion_v3.1</a> (推荐谷歌浏览器，获得更快响应速度)
+技术支持:<a href="#" title="Creatunion_v3.1 Simple版本">Creatunion_v3.1</a> </span></div>
 </div>
 </body>

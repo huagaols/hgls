@@ -191,7 +191,7 @@
 			appid:'1',
 			icon:'appmarket.png',
 			url:'http://www.jeecg.org/',
-			name:'JEECG论坛',//应用市场
+			name:'论坛',//应用市场
 			asc :1
 		},
 		'qq':{

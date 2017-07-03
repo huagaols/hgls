@@ -24,8 +24,8 @@
 </div>
 
 <div style="display: none">
-	<div id="p1" title="JEECG简介" collapsible="true">
-		<div title="JEECG简介" collapsible="true" closable="flase" style="height:350px;" >
+	<div id="p1" title="开运联合快速开发平台简介" collapsible="true">
+		<div title="开运联合快速开发平台简介" collapsible="true" closable="flase" style="height:350px;" >
 					<div style="margin-top: 14px;">
 					<h3>简介</h3>
 					<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京开运联合信息技术股份有限公司（Creatunion）是一家专业的软件开发服务提供商。公司创立于2004年。总部在中国北京，同时建立上海、西安、宁波办事处联络机构。以软件技术为核心，通过软件与服务的结合，软件与行业的结合，技术与行业管理能力的结合，提供软件开发和行业解决方案以及相关软件产品、平台的开发与服务。 </p>
@@ -99,7 +99,7 @@ $(function() {
 	//if($("#p1").length==1){
 		mainPanels.push({
 			id : 'p1',
-			title : 'JEECG简介',
+			title : '北京开运联合快速开发平台简介',
 			height : 300,
 			collapsible : true
 		});
